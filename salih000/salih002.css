@@ -1,0 +1,83 @@
+body  {
+    width: auto;
+    height: auto;
+    background-color: white;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+}
+
+.header .topbar {
+  
+    width: auto;
+    height: 50px;
+    background-color:red;
+    color: black;
+}
+.header .topbar .bolum1 {
+	
+	float: left;
+    width: 50%;
+    height: 50px;
+    background-color:red;
+    color: black;
+}
+.header .bolum1 h3 {
+    color: black;
+}
+.header .bolum2{
+    float: left;
+    width: 50%;
+    height: 50px;
+    background-color:yellow;
+    
+}
+.header .bolum2 h3 {
+    color: black;
+	float: right
+}
+
+
+.header .menulogo {
+
+	
+	float: left;
+    width: 100%;
+    height: 125px;
+    background-color:blue;
+    
+}
+.header .menulogo .logo  {
+	float: left;
+    width: 50%;
+	height: 125px;
+    color: black;
+	background-color:orange;
+}
+ .menulogo .menu  {
+    float: left;
+    width: 50%;
+	height: 125px;
+    color: black;
+	background-color:blue;
+}
+.menulogo .menu h1 {
+	
+	float: right;
+	
+	
+	
+	}
+	
+	
+.header .slide  {
+
+	float: center;
+    width: 100%;
+    height: 400px;
+    background-color:purple;
+	
+	}
